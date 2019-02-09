@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, HttpTestActivity!</string>
+    <string name="app_name">CarParks - S.Harrison - S0907581</string>
+    <string name="btnOk">Ok</string>
+    <string name="matric">S0907581</string>
+    <string name="title_activity_tab1__car_parks">Tab1_CarParks</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_tab2_map">Tab2_map</string>
+    <string name="title_activity_tab3__settings">Tab3_Settings</string>
+    <string name="chkAuto">Auto-Update</string>
+
+</resources>

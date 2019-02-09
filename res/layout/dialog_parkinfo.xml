@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Stuart Harrison - S0907581 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/dialogParkInfo"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+	
+    <TextView
+        android:id="@+id/txtbiSpaces"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_gravity="center"
+        android:text="" />
+    
+    <TextView
+        android:id="@+id/txtbiPercentage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+ 		android:layout_marginTop="5dp"
+ 		android:layout_marginBottom="5dp"
+        android:layout_gravity="center"
+        android:text="" />
+    
+    
+    <Button
+        android:id="@+id/idialogButtonOK"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_gravity="center"   
+        android:text="@string/btnOk" />
+
+    <TextView
+        android:id="@+id/txtbiMatric"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:text="@string/matric" />
+
+</LinearLayout>
